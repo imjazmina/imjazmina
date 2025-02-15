@@ -6,5 +6,5 @@ Soy una estudiante apasionada por el desarrollo web.
 
 ## Estadisticas del repositorio
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=imjazmina&theme=radical)]
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=imjazmina&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjazmina&layout=compact&theme=radical) 
