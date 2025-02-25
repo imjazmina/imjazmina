@@ -12,7 +12,7 @@
 
 ## 📊 Estadisticas de Github
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=imjazmina&theme=radical) <br>
+![Jazmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjazmina&show_icons=true&theme=radical) <br>
 <p></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjazmina&layout=compact&theme=radical) 
