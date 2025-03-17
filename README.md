@@ -1,5 +1,4 @@
 # <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBhbW9zdmg3ajUxMXF3cHo5ZTFsd3oyOTR1cjYyMmNxM3I5MWlhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fo0HtwcJzNUcOlRdFc/giphy.gif" width="100"/> Hola, soy Jazmin 👋
-## Bienvenido a mi pagina :) 
 <p>
 👩‍💻 Soy estudiante de Ingenieria en informatia de la Universidad del Norte.  <br>
 💭 Estoy aprendiendo desarrollo web. <br>                               
