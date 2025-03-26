@@ -38,9 +38,59 @@
 
 <br clear="both">
 
+<div align="center">
+<h3>Projects</h3>
+
+   <a href="https://github.com/Nneji123/Website-Blocker">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imjazmina&repo=dic-coffe&theme=tokyonight" />
+
+</a>  
+
+
+<a href="https://github.com/Nneji123/Alien-Shooter">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=imjazmina&repo=JJNY&theme=tokyonight" />
+
+</a> <br>
+
+</div>
+
+<details> 
+   <summary><h3> Github Stats 📊</summary>
+<br>
+  <div align="center">
+  <h4>Profile Stats</h4>
+  <p>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imjazmina&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+<br>
+    <h4>Top Langs</h4>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imjazmina&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+  <br>
+    </div>
+  </p>
+</details>
+     
+<h3> 🏆GitHub Trophies </h3>
+     <br>
+<div align="center">   
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=imjazmina&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+</div>
 
 <div align ="center">
 <h3> 📥 Connect with me </h3> <br>
    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+----
+Last edited 03/26/2025
