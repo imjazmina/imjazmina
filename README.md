@@ -41,14 +41,14 @@
 <div align="center">
 <h3>Projects</h3>
 
-   <a href="https://github.com/Nneji123/Website-Blocker">
+   <a href="https://github.com/imjazmina/dic-coffe">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imjazmina&repo=dic-coffe&theme=tokyonight" />
 
 </a>  
 
 
-<a href="https://github.com/Nneji123/Alien-Shooter">
+<a href="https://github.com/imjazmina/JJNY">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
