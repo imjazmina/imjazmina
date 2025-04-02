@@ -43,7 +43,7 @@
 
    <a href="https://github.com/imjazmina/dic-coffe">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imjazmina&repo=dic-coffe&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imjazmina&repo=Dic_Coffe&theme=tokyonight" />
 
 </a>  
 
@@ -64,11 +64,11 @@
   <div align="center">
   <h4>Profile Stats</h4>
   <p>
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imjazmina&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+      <a href="https://github.com/imjazmina"><img alt="Jazmin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imjazmina&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br>
     <h4>Top Langs</h4>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imjazmina&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imjazmina&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jaz's Top Langs" height="192px"/>
   <br>
     </div>
   </p>
