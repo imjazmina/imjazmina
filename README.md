@@ -3,6 +3,7 @@
   <ul align="center">
     <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBhbW9zdmg3ajUxMXF3cHo5ZTFsd3oyOTR1cjYyMmNxM3I5MWlhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fo0HtwcJzNUcOlRdFc/giphy.gif" width="100"/>
     <summary><h1 style="display: inline-block">Hi 👋, I'm Jazmin</h1></summary>
+	 <!--![Header](./github-header-image.png)-->
   </ul>
 </div>
 <pre>
