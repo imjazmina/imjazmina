@@ -46,7 +46,7 @@
 <div align="center">
 <h3>Projects</h3>
 
-   <a href="https://github.com/imjazmina/dic-coffe">
+   <a href="[https://github.com/imjazmina/dic-coffe](https://imjazmina.github.io/Dic_Coffe/)">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imjazmina&repo=Dic_Coffe&theme=tokyonight" />
 
