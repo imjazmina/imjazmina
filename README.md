@@ -55,7 +55,6 @@
 
 <a href="https://github.com/imjazmina/JJNY">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=imjazmina&repo=techforall&theme=tokyonight" />
 
@@ -75,8 +74,11 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imjazmina&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jaz's Top Langs" height="192px"/>
   <br>
+	    <h4> 🔝 Top Contributed Repo</h4>
+ <img src=https://github-contributor-stats.vercel.app/api?username=imjazmina&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+	  </p>
     </div>
-  </p>
+  
 
      
 <h3> 🏆GitHub Trophies </h3>
