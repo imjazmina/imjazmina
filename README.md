@@ -2,12 +2,11 @@
 <div id="user-content-toc">
   <ul align="center">
     <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBhbW9zdmg3ajUxMXF3cHo5ZTFsd3oyOTR1cjYyMmNxM3I5MWlhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fo0HtwcJzNUcOlRdFc/giphy.gif" width="100"/>
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Jazmin</h1></summary>
-	 <!--![Header](./github-header-image.png)-->
+<summary><h1 style="display: inline-block">Hi 👋, I'm Jazmin</h1></summary>
   </ul>
 </div>
 <pre>
-👩‍💻 I'm studying computer science at the Universidad del Norte.<br>
+👩‍💻 I'm studying computer science at the Universidad del Norte.<br>  
 💭 I'm a passionate, self-taught front-end developer.<br>
 🔭 I'm currently working on projects for my portfolio.<br>
 </pre>
@@ -63,23 +62,54 @@
 </div>
 
 
-   <summary><h3> Github Stats 📊</summary>
-<br>
-  <div align="center">
-  <h4>Profile Stats</h4>
-  <p>
-      <a href="https://github.com/imjazmina"><img alt="Jazmin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imjazmina&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br>
-    <h4>Top Langs</h4>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imjazmina&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jaz's Top Langs" height="192px"/>
-  <br>
-	    <h4> 🔝 Top Contributed Repo</h4>
- <img src=https://github-contributor-stats.vercel.app/api?username=imjazmina&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-	  </p>
-    </div>
-  
+   <!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/imjazmina">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=imjazmina&count_private=false&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/imjazmina">
+          <img align="center" src="https://streak-stats.demolab.com?user=imjazmina&theme=tokyonight" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Top Langs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/imjazmina>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjazmina&theme=tokyonight&line_height=40&hide=css"/>
+	</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/imjazmina">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=imjazmina&limit=3&theme=tokyonight&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imjazmina&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
      
 <h3> 🏆GitHub Trophies </h3>
      <br>
@@ -92,6 +122,10 @@
     alt="example" />
 </p>
 </div>
+<h2 >🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ </h2>
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
 
 <div align ="center">
 <h3> 📥 Connect with me </h3> <br>
