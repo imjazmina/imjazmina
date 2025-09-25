@@ -52,10 +52,9 @@
 </a>  
 
 
-<a href="https://github.com/imjazmina/JJNY">
+<a href="[https://github.com/imjazmina/JJNY](https://github.com/imjazmina/sistema_de_acceso)">
 
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=imjazmina&repo=techforall&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=imjazmina&repo=sistema_de_acceso&theme=tokyonight" />
 
 </a> <br>
 
@@ -133,4 +132,4 @@
 </div>
 
 ----
-Last edited 04/02/2025
+Last edited 25/09/2025
